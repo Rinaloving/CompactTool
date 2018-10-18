@@ -1,0 +1,9 @@
+D:\陈风龙\编写高质量代码C#的157个建议\compactTool\compactTool\bin\Debug\compactTool.exe.config
+D:\陈风龙\编写高质量代码C#的157个建议\compactTool\compactTool\bin\Debug\compactTool.exe
+D:\陈风龙\编写高质量代码C#的157个建议\compactTool\compactTool\bin\Debug\compactTool.pdb
+D:\陈风龙\编写高质量代码C#的157个建议\compactTool\compactTool\bin\Debug\Ionic.Zip.dll
+D:\陈风龙\编写高质量代码C#的157个建议\compactTool\compactTool\obj\Debug\compactTool.Form1.resources
+D:\陈风龙\编写高质量代码C#的157个建议\compactTool\compactTool\obj\Debug\compactTool.Properties.Resources.resources
+D:\陈风龙\编写高质量代码C#的157个建议\compactTool\compactTool\obj\Debug\compactTool.csproj.GenerateResource.Cache
+D:\陈风龙\编写高质量代码C#的157个建议\compactTool\compactTool\obj\Debug\compactTool.exe
+D:\陈风龙\编写高质量代码C#的157个建议\compactTool\compactTool\obj\Debug\compactTool.pdb
